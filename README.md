@@ -1,4 +1,9 @@
-Welcome to my GitHub page! I'm Jace, and I'm excited to share my projects and contributions with you.
+This is a web scraper built to extract data from website URL.
+It uses python language to scrape the data.
 
-Want to get in touch? You can reach me at     :Email: jaceonly17@gmail.com
+Usage
+  Run the scraper using 'python web_scraper.py'
+
+Want to get in touch? You can reach me at     
+  :Email: jaceonly17@gmail.com
 
